@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR2l0021/SBCK/v1
+canonical_location: https://kanripo.org/bkk/KR2l0021/SBCK/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 為政忠告
+  date: '2015-09-12 00:41:33.884078'
+  source:
+    repository: kanripo
+    path: KR2l0021
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2l0021_000-SBCK.yaml, hash: 'sha256:b0cbf7feae0f10810214b41bd5ece3933528b386e75e7661df0bdac42338eb03'}
+  - {seq: 1, filename: KR2l0021_001-SBCK.yaml, hash: 'sha256:b74c6df48654c589717d9a28b5b1f38c96e09f45aac0c8fa3714239f2c58d586'}
+  - {seq: 2, filename: KR2l0021_002-SBCK.yaml, hash: 'sha256:97f636875c5aa6ba53341859c2858f252f4727ddc684894121961d4e65fb5baf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2l0021_000-SBCK.markers.yaml, hash: 'sha256:5964d934ca5015221e45f68f8027840cdd33297a9c238148327f00e50d392198'}
+  - {seq: 1, role: markers, filename: assets/KR2l0021_001-SBCK.markers.yaml, hash: 'sha256:9d257a0eff453e37a7cf089954c5ec54e0eb30b573bacac186e2450f0600937e'}
+  - {seq: 2, role: markers, filename: assets/KR2l0021_002-SBCK.markers.yaml, hash: 'sha256:16f09deeb30c8d782c6c03e43afc0e473f43e05ff6b23965313fd9ad26d6f5ac'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2l0021_SBCK_000-1a
+    span:
+    - body
+    - 0
+    - 950
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2l0021_SBCK_001-1a
+    span:
+    - body
+    - 0
+    - 10768
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2l0021_SBCK_002-1a
+    span:
+    - body
+    - 0
+    - 3977
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:0c06f49550c7997bb516d215f4fb7c25010698b744ccea6148ea3dda0c80603e

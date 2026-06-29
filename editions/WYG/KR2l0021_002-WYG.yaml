@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2l0021/WYG/v1/juan/2
+seq: 2
+front:
+  text: 有禍而無福故也嗚呼人君能以是思之則凡盡忠於我者萬不至於譴責矣雖然聖人謂道合則服從不可則去為人臣者亦當燭幾先見退身於未辱之前庶幾君臣之間兩無所歉嘗見前代為臣不免者大率皆由知進而不知退戀慕榮寵以致之殆不宜獨咎國家也或謂不可則去無乃於君臣之間太薄竊謂君臣以義合者也其所以合者非華其爵也非利其禄也不過欲行其道而已矣道行則從而留道不行則從而去不使久而至於厭鄙誅竄之地乃所以厚君臣之分也奚薄焉
+  hash: sha256:5cf976a64f627632cd358e8846e1a86a7e9c07bda997bfa40678d966a262d657
+  markers:
+  - {type: page-break, offset: 104, content: '', id: KR2l0021_WYG_004-13a}
+body:
+  text: 三事忠告卷四
+  hash: sha256:7cd5154d65e74f65e8034888c8c736f488740df612a0261717ebcf382eb4a4c1
+metadata:
+  title: 為政忠告
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 00:41:33.884078'
+  source:
+    repository: kanripo
+    path: KR2l0021/KR2l0021_002.txt
+hash: sha256:e18459b2b472bcfb93876dacc9b41176305a77f672840cf718e5f394676bd14a
