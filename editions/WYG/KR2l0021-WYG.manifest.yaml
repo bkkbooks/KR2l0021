@@ -17,21 +17,21 @@ entity_encoding:
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 assets:
   parts:
-  - {seq: 0, filename: KR2l0021_000-WYG.yaml, hash: 'sha256:d054ee37c09e0cff0017da4500449f4e9b6fa0f246245b87d9b125e6e2d69067'}
+  - {seq: 0, filename: KR2l0021_000-WYG.yaml, hash: 'sha256:0253795f668c81a921d818c93e1eb92d551eff9256a99f609eb2b648b6b9f1fd'}
   - {seq: 1, filename: KR2l0021_001-WYG.yaml, hash: 'sha256:1a187eba79ae3c5e9c0476457fd065c742db10cc0e7afad302a0e7cea7e26278'}
-  - {seq: 2, filename: KR2l0021_002-WYG.yaml, hash: 'sha256:e18459b2b472bcfb93876dacc9b41176305a77f672840cf718e5f394676bd14a'}
+  - {seq: 2, filename: KR2l0021_002-WYG.yaml, hash: 'sha256:5e53716181f50193b3ecc73d41545ca91a70fdc835384a4552da53fa160c8d1a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2l0021_000-WYG.markers.yaml, hash: 'sha256:f382586473c4c6000d1e3823ca08d18cd1130b519cf1ca2d29eba76bf8c481a1'}
+  - {seq: 0, role: markers, filename: assets/KR2l0021_000-WYG.markers.yaml, hash: 'sha256:9b9a44241bfe52c161c99029a979f653b5e389bfb2b2c3b0d1513480ab2a20dd'}
   - {seq: 1, role: markers, filename: assets/KR2l0021_001-WYG.markers.yaml, hash: 'sha256:2abf0bf393228d574ef6856d5bd6c6247389286f6c90324a9cd031b4ae05e585'}
-  - {seq: 2, role: markers, filename: assets/KR2l0021_002-WYG.markers.yaml, hash: 'sha256:d5b3ac0a8bddc1adcce190929fc2f7ef6bddeeccbb27388a0e760e4fbba8eb94'}
+  - {seq: 2, role: markers, filename: assets/KR2l0021_002-WYG.markers.yaml, hash: 'sha256:346af977bf9530659670926309f9e8d551051b3c20d3975de74c6f203861c721'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR2l0021_WYG_000-5a
     span:
     - body
-    - 0
-    - 11
+    - 976
+    - 987
   label: juan 000
   type: section
   level: 1
@@ -50,9 +50,9 @@ table_of_contents:
     marker_id: KR2l0021_WYG_004-13a
     span:
     - body
-    - 0
-    - 6
+    - 190
+    - 196
   label: juan 002
   type: section
   level: 1
-hash: sha256:b8ebc6785cae8c1f545485d72816cfb15e47035569df29942197522dd0e500eb
+hash: sha256:98e889d3b7405f524b9ddf8ab4b4d51a5092b69dbe848b0e80a8b7d287e44133
